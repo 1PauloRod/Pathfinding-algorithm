@@ -1,5 +1,5 @@
 # Pathfinding-algorithm
 
 Compilation: 
-      > mingw32-make <br>
+      > mingw32-make <br/>
       > main.exe
